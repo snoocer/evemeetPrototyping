@@ -95,7 +95,6 @@ public class Loading extends AppCompatActivity {
             Intent intent = new Intent(this, DisplayMessageActivityu.class);
             startActivity(intent);
         }
-
         //mVisible = true;
         //mControlsView = findViewById(R.id.fullscreen_content_controls);
         //mContentView = findViewById(R.id.fullscreen_content);
